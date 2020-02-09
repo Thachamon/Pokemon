@@ -1,10 +1,7 @@
 import java.util.Scanner;
          
 public class Pokemon {
-        int eat;
-        int sleep;
-        int state;
-        
+    
         private int hp;
         private int maxHp;
         private int level;

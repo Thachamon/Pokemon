@@ -65,6 +65,15 @@ public class PokemonGame {
                 pokemon.decreaseHP(15);
             }
         }
+        if (number == 4){
+            
+        }
+        if (number == 0){
+            start = false;
+                System.out.println();
+                System.out.print("Bye Bye!!");
+        }
+
         }
     }
 }
